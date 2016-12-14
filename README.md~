@@ -1,0 +1,14 @@
+"Food Finder Project"
+
+Hired as a consultant, I came across some ruby code calling various APIs and different libraries. My work/tasks encompassed, fixing bugs, optimizing, and refactoring. This tiny small project written from scratch, called "Food Finder" allowed  me to review and practice ruby coding at my own pace. 
+
+Concepts acquired, reenforced and reviewed : 
+
+ADT Data Structures (Classes, Hashes, Array, String, Symbols, Ranges, ...)
+File I/O / String manipulations
+Object Programming OOP, methods overriding, ...
+Inheritance, multiple inheritance with mixins
+Modules (name spacing with mixins)
+Handling Exceptions/Errors
+
+Ak.

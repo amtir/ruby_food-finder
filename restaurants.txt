@@ -1,0 +1,9 @@
+Hot Tamale	Mexican	25
+Cafe Masala	Indian	30
+Giogios	Italian	35
+ChezPierrette	French	45
+Roar66	American_Fast-Food	15
+WuangXing	Chinese	25
+Tonio	Italian	25
+TexMex	Mexican	20
+Masmala	Indian	20
