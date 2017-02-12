@@ -1,6 +1,6 @@
 #Ruby coding : "Food Finder Project"
 
-###*Hired as a consultant, I had to optimize and refactor some ruby code calling various APIs and different libraries. This small project called "Food Finder" written from scratch, allowed  me to review and practice ruby coding at my own pace.* 
+###*This small project is  called "Food Finder" and is programmed in the ruby language.* 
 
 ###Concepts acquired and reviewed : 
 
