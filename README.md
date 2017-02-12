@@ -1,8 +1,8 @@
 #Ruby coding : "Food Finder Project"
 
-###*Hired as a consultant, I came across some ruby code calling various APIs and different libraries, that I had to optimize, and refactore. This small project called "Food Finder" written from scratch, allowed  me to review and practice ruby coding at my own pace.* 
+###*Hired as a consultant, I had to optimize and refactor some ruby code calling various APIs and different libraries. This small project called "Food Finder" written from scratch, allowed  me to review and practice ruby coding at my own pace.* 
 
-###Concepts acquired, reenforced and reviewed : 
+###Concepts acquired and reviewed : 
 
 * ADT Data Structures (Classes, Hashes, Symbols, Ranges, ...)
 * File I/O / String manipulations
