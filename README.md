@@ -1,8 +1,8 @@
-#Ruby coding : "Food Finder Project"
+# Ruby coding : "Food Finder Project"
 
-###*This small project is  called "Food Finder" and is programmed in the ruby language.* 
+### *This small project is  called "Food Finder" and is programmed in the ruby language* 
 
-###Concepts acquired and reviewed : 
+### Concepts acquired and reviewed : 
 
 * ADT Data Structures (Classes, Hashes, Symbols, Ranges, ...)
 * File I/O / String manipulations
